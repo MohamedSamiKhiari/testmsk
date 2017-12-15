@@ -3,7 +3,11 @@ echo "hello MOHAMED";
 
 function sami($x)
 {
-	return -1;
+	return -2;
 }
 
+function xe($x)
+{
+	echo " hello";
+}
 ?>
